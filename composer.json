@@ -1,5 +1,5 @@
 {
-    "name": "topthink/framework",
+    "name": "yiqiniu/framework",
     "description": "The ThinkPHP Framework.",
     "keywords": [
         "framework",
@@ -32,7 +32,8 @@
     },
     "require-dev": {
         "mikey179/vfsstream": "^1.6",
-        "mockery/mockery": "^1.2"
+        "mockery/mockery": "^1.2",
+        "phpunit/phpunit": "^7.0"
     },
     "autoload": {
         "files": [],
